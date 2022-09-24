@@ -1,1 +1,4 @@
-My Observations:
+Observations:
+1. Correlation between Latitude and Temperature can be seen clearly and as expected Temperature is higher in equatorial cities. Refer "City Latitude vs. Max Temperature (18-09-2022).png".
+2. Cloudiness forms a very interesting pattern, there are fewer cities with 20% to 60% cloudiness compared to the edge scenario(closer to 0% or loser to 100%). Refer "City Latitude vs. Cloudiness (18-09-2022).png".
+3. Humidity seems to be higher in northern hemisphere cities(above 60% humidity) compared to southern hemisphere. This could be because of earths inclination at the time of collecting the data but it will be intresting to explore this more with variety of data sets at different times and dates throughout the year. Refer "City Latitude vs. Humidity (18-09-2022).png".
